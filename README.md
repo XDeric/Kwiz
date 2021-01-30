@@ -9,6 +9,9 @@
 -download it onto your phone with xcode  
 -lastly enjoy, Thank You  
 
+##Link
+https://apps.apple.com/us/app/kwiz-games-challenge/id1536447940
+
 # !Warning
 Please know that there might be bugs and if you catch any you can e-mail them too  
 ericmei@pursuit.org
